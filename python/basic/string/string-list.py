@@ -1,0 +1,7 @@
+f=input("enter color names ")
+l = f.split(",")
+print (l)
+print ("the first colour is ", l[0])
+print ("the last colour is ", l[-1])
+h=len(l)
+print ("there are",h, "colors")

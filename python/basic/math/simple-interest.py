@@ -1,0 +1,5 @@
+a= int(input("enter a principal: "))
+s= int(input("enter a rate: "))
+d= int(input("enter a time: "))
+f=(a*s*d/100)
+print ("simple interest is" , f)

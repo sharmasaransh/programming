@@ -1,0 +1,6 @@
+f=str (input("enter your name:"))
+g=str (input("enter your standard:"))
+h=str (input("enter your school name:"))
+print ("your name is" ,f)
+print ("your school name is" ,h)
+print ("your standard is" ,g)
